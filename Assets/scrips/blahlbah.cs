@@ -1,11 +1,12 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
-public class Test: MonoBehaviour
+public class blah: MonoBehaviour
 {
-    
+    private InputActionReference moveAction; 
     void Start()
     {
-        Debug.Log("Hello, World!");
+        
     }
     void Update()
     {
