@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
         
         Vector3 forward = Camera.main.transform.forward;
         Vector3 right = Camera.main.transform.right;
-        Debug.Log(forward + " fordward");
+      
 
         forward.y = 0;
         right.y = 0;
