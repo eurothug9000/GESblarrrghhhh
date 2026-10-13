@@ -900,6 +900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d33a87aab704c8469014e9c3d9a6035, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::playerInteractor
+  interactDistance: 4.36
   interactAction: {fileID: 1781555164194001046, guid: 052faaac586de48259a63d0c4782560b, type: 3}
 --- !u!1 &1275190999
 GameObject:
