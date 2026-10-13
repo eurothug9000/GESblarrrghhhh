@@ -17,8 +17,8 @@ public class PlayerMovement : MonoBehaviour
 
  
         Vector2 input = moveAction.action.ReadValue<Vector2>();
-        
-        Vector3 forward = Camera.main.transform.forward;
+
+        var forward = Camera.main.transform.forward;
         Vector3 right = Camera.main.transform.right;
       
 
