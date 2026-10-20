@@ -17,3 +17,6 @@ First person adventure game in 3d enviorments with interactable objects that fea
 - Interactive switches/buttons (e.g. lights)
 
 
+# art and references
+
+- [household_items] <https://assetstore.unity.com/packages/3d/props/3d-low-poly-modular-household-starter-pack-390864>
